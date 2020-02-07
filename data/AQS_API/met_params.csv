@@ -1,0 +1,38 @@
+,code,value_represented
+0,61101,Wind Speed - Scalar
+1,61102,Wind Direction - Scalar
+2,61103,Wind Speed - Resultant
+3,61104,Wind Direction - Resultant
+4,61105,Peak Wind Gust
+5,61106,Std Dev Hz Wind Direction
+6,61107,Std Dev Vt Wind Direction
+7,61109,Vertical Wind Speed
+8,61110,Std Dev Vt Wind Speed
+9,61111,Std Dev Hz Wind Speed
+10,61112,Vert Wind Direction
+11,61120,Atmospheric Stability
+12,61202,Lapse Rate
+13,61301,Mixing Height
+14,61302,Mixing Speed
+15,62101,Outdoor Temperature
+16,62102,Virtual Temperature
+17,62103,Dew Point
+18,62104,Temperature 24-Hr Max
+19,62105,Temperature 24-Hr Min
+20,62106,Temperature Difference
+21,62108,Soil Temperature
+22,62201,Relative Humidity 
+23,62604,Ammonia (precip)
+24,63101,Visibility
+25,63301,Solar radiation
+26,63302,Ultraviolet radiation
+27,63303,Infrared Radiation
+28,63304,Ultraviolet radiation (type B)
+29,63305,Net radiation
+30,64101,Barometric pressure
+31,65101,Rain 24hr total
+32,65102,Rain/melt precipitation
+33,65103,EVAPORATION
+34,66101,Cloud cover
+35,68105,Average Ambient Temperature
+36,68108,Average Ambient Pressure
