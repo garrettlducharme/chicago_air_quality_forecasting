@@ -1,4 +1,8 @@
 # chicago_air_quality_forecasting
+
+### Problem Motivation
+
+The southeast side of Chicago has been burdened with [poor air quality](https://www.epa.gov/il/environmental-issues-southeast-chicago) for a number of years. After numerous complaints from the residents, the EPA investigated this area in 2013 and found that many manufacturing and handling companies were not in compliance with the clean air act. In 2017, the company S.H. Bell , a monitoring station has been installed so that air quality can be monitored
 The goal of this project will be to use past meteorological and 
 particulate matter (PM) data to forecast future PM levels in Chicago. 
 While this is currently done using various analytical models, there are 
@@ -18,13 +22,3 @@ the surrounding sites may also play an important role in forecasting, so
 I will try to include them after first building a rudimentary model.
 
 ## To Do
-
--- Rudimentary LSTM RNN forecasting model for the S.H Bell Chicago 
-monitoring site.
-
--- Use the AQS API to pull all relevant hourly data from the past three 
-or so years from each monitoring site in Cook county.
-
--- Look at the pre-generated hourly csv files on the EPA air data page 
-to see if there's anything that's useful for this project.
-if there's an
