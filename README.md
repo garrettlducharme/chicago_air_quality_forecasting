@@ -22,16 +22,16 @@ The raw data is publicly available on the EPA website: https://www.epa.gov/il/sh
 ### Directory Tree
 
 - data
- - aqi_api - Raw data obtained from the AQS API
- - sh_bell - Raw and cleaned/combined data from the S.H. Bell monitoring site
+    - aqi_api - Raw data obtained from the AQS API
+    - sh_bell - Raw and cleaned/combined data from the S.H. Bell monitoring site
 - models - hdf5 files for GRU and LSTM forecasting models
 - notebooks - Notebooks used to do the majority of the work
- - data_cleaning.ipynb - Cleaning and combining S.H. Bell data
- - data_scraping.ipynb - Framework for scraping data from the EPA website
- - epa_aqs_api_calls.ipynb - API calls to the EPA AQS database (in progress)
- - gru_test.ipynb - GRU modelling
- - lstm_test.ipynb - LSTM modelling
- - visuals.ipynb - Data visualization and creation of figures for presentation
+    - data_cleaning.ipynb - Cleaning and combining S.H. Bell data
+    - data_scraping.ipynb - Framework for scraping data from the EPA website
+    - epa_aqs_api_calls.ipynb - API calls to the EPA AQS database (in progress)
+    - gru_test.ipynb - GRU modelling
+    - lstm_test.ipynb - LSTM modelling
+    - visuals.ipynb - Data visualization and creation of figures for presentation
 - presentation_figures - Figures used in my capstone project presentation
 - non_technical_presentation.pptx - Capstone presentation powerpoint
 - pm_modeler.py - Particulate matter forecasting class (in progress)
