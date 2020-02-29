@@ -34,6 +34,5 @@ The raw data is publicly available on the EPA website: https://www.epa.gov/il/sh
     - visuals.ipynb - Data visualization and creation of figures for presentation
 - presentation_figures - Figures used in my capstone project presentation
 - non_technical_presentation.pptx - Capstone presentation powerpoint
-- pm_modeler.py - Particulate matter forecasting class (in progress)
 - README.md - This readme file
 
